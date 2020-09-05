@@ -120,7 +120,7 @@ import 'vue-loading-overlay/dist/vue-loading.css'
 
     Vue.use(VueGoogleMaps, {
         load: {
-            key: 'AIzaSyDC4sonH281FHJ-YyPmeXLRdBYuqcjUkGE',
+            key: '',
             v: 'OPTIONAL VERSION NUMBER',
             libraries: 'places', //// If you need to use place input
         }
