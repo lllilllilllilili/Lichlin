@@ -1,6 +1,6 @@
 import Axios from "axios"
 
-const CLIENT_ID = '489cf71f2491ea6';
+const CLIENT_ID = 'imgur-id';
 const ROOT_URL = 'https://api.imgur.com'
 
 
